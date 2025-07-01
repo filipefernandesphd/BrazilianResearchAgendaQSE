@@ -1,6 +1,6 @@
 # BRAZILIAN RESEARCH AGENDA IN QUANTUM SOFTWARE ENGINEERING
 
-This repository aims to provide supplementary materials of the article entitled `Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study` submitted to the [Q-SET`25](https://qserv.spilab.es/q-set-2025-home/)).
+This repository aims to provide supplementary materials of the article entitled `Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study` submitted to the [Q-SET`25](https://qserv.spilab.es/q-set-2025-home/).
 
 ## Files
 - `FinalPapers.xls` and `Affiliations.xls` provide data of papers analyzed;
