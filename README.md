@@ -4,5 +4,5 @@ This repository aims to provide supplementary materials of the article entitled 
 
 ## Files
 - `FinalPapers.xls` and `Affiliations.xls` provide data of papers analyzed;
-- `SBES 2025.ipynb` is a notebook that provides codes used to works analysis and chart generation;
-- `papers.csv` and `affiliations.csv` are data from `FinalPapers.xls` and `Affiliations.xls` used in the notebook;
+- `BRAgendaQSE.ipynb` is a notebook that provides codes used to works analysis and chart generation;
+- `papers.csv` and `affiliations.csv` are data from `FinalPapers.xls` and `Affiliations.xls` used in the notebook.
